@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# I'm just hanging around trying to improve my development workflow and tackling fun and interesting challenges on my offtime.
+# I'm just hanging around trying to improve my development workflow while tackling fun and interesting challenges on my offtime.
 
 <p align="center">
   <source
