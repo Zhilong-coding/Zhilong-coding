@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+# I'm just hanging around trying to improve my development workflow and tackling fun and interesting challenges on my offtime.
+
 <p align="center">
   <source
     media="(prefers-color-scheme: dark)"
