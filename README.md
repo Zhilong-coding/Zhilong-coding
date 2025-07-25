@@ -6,35 +6,17 @@
   <source
     media="(prefers-color-scheme: dark)"
     srcset="
-      https://readme-typing-svg.demolab.com?font=&weight=600&size=40&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=400&height=60&lines=IF+(WORK)
+      https://readme-typing-svg.demolab.com?font=&weight=600&size=40&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=400&height=60&lines=IF+(WORK)+!Touch
     "
   />
   <source
     media="(prefers-color-scheme: light)"
     srcset="
-      https://readme-typing-svg.demolab.com?font=&weight=600&size=40&pause=1000&color=000000&center=true&vCenter=true&random=false&width=400&height=60&lines=IF+(WORK)
+      https://readme-typing-svg.demolab.com?font=&weight=600&size=40&pause=1000&color=000000&center=true&vCenter=true&random=false&width=400&height=60&lines=IF+(WORK)+!Touch
     "
   />
   <img
     alt="Star History Chart"
-    src="https://readme-typing-svg.demolab.com?font=&weight=600&size=40&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=400&height=60&lines=IF+(WORK)"
-  />
-</p>
-<p align="center">
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="
-      https://readme-typing-svg.demolab.com?font=&weight=600&size=40&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=400&height=60&lines=DO+NOT+TOUCH
-    "
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="
-      https://readme-typing-svg.demolab.com?font=&weight=600&size=40&pause=1000&color=000000&center=true&vCenter=true&random=false&width=400&height=60&lines=DO+NOT+TOUCH
-    "
-  />
-  <img
-    alt="Star History Chart"
-    src="https://readme-typing-svg.demolab.com?font=&weight=600&size=40&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=400&height=60&lines=DO+NOT+TOUCH"
+    src="https://readme-typing-svg.demolab.com?font=&weight=600&size=40&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=400&height=60&lines=IF+(WORK)+!Touch"
   />
 </p>
